@@ -1,6 +1,6 @@
 HELLO WORLD! 
 
-I am a programmer specialized in data science. In my kaggle profile you will find analysis on data sets of various sizes, and machine and deep learning models. Here I will focus on projects that will be real implementations of deep learning models
+I am a programmer specialized in data science. In my kaggle profile you will find analysis on data sets of multiple topics and sizes, and machine and deep learning models. Here I will focus on projects that will be real implementations of deep learning models
 
   ---
 
